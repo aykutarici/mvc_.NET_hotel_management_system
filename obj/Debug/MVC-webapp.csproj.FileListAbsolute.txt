@@ -1,0 +1,250 @@
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\ApplicationInsights.config
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\csc.exe
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\vbc.exe
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll.config
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.pdb
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Owin.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Razor.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\WebGrease.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Razor.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.pdb
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.dll
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.pdb
+C:\Users\arici\Desktop\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.csprojResolveAssemblyReference.cache
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\ApplicationInsights.config
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\csc.exe
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\System.Collections.Immutable.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\System.Reflection.Metadata.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\vbc.exe
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe.config
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll.config
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\MVC-webapp.pdb
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Web.Infrastructure.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Owin.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Razor.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\WebGrease.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.Razor.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.pdb
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.csprojResolveAssemblyReference.cache
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\mvc hw3\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.pdb
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\Mehmet Aykut ARICI Architecture\Web Based Hotel Reception System\Solution\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.dll
+F:\kısayollar\others\Lessons\SOFTWARE ARCHITECTURE\Mehmet Aykut ARICI Architecture\Web Based Hotel Reception System\Solution\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.pdb
+C:\Users\arricie\Desktop\lessons\SOFTWARE ARCHITECTURE\Mehmet Aykut ARICI Architecture\Web Based Hotel Reception System\Solution\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.dll
+C:\Users\arricie\Desktop\lessons\SOFTWARE ARCHITECTURE\Mehmet Aykut ARICI Architecture\Web Based Hotel Reception System\Solution\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.pdb
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\ApplicationInsights.config
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\csc.exe
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\vbc.exe
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll.config
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\MVC-webapp.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\MVC-webapp.pdb
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\EntityFramework.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Owin.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Razor.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\WebGrease.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\EntityFramework.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.Web.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Helpers.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Mvc.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Optimization.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.Razor.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Antlr3.Runtime.pdb
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Newtonsoft.Json.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.csprojResolveAssemblyReference.cache
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.dll
+C:\Users\arricie\Documents\Visual Studio 2015\Projects\MVC-webapp\MVC-webapp\obj\Debug\MVC-webapp.pdb
